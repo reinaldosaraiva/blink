@@ -25,4 +25,5 @@ void loop() {
 
 {
    "arquivoAlterado" : "Dupla Adail e Isnabá"
+   "outraAlteraçao" : "Alterado pelo Andre Lousada"
 }
